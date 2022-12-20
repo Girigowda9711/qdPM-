@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-20T00:53:14 IST" name="Suite" finished-at="2022-12-20T00:53:35 IST" duration-ms="21095">
+    <groups>
+    </groups>
+    <test started-at="2022-12-20T00:53:14 IST" name="Test" finished-at="2022-12-20T00:53:35 IST" duration-ms="21095">
+      <class name="com.qdPM.TestCases.LoginPageTest">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:com.qdPM.TestCases.LoginPageTest@65c7a252]" started-at="2022-12-20T00:53:15 IST" name="LaunchApplication" finished-at="2022-12-20T00:53:31 IST" duration-ms="16336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:com.qdPM.TestCases.LoginPageTest@65c7a252]" started-at="2022-12-20T00:53:15 IST" name="LaunchApplication" finished-at="2022-12-20T00:53:32 IST" duration-ms="16998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="administatorLoginTest2()[pri:0, instance:com.qdPM.TestCases.LoginPageTest@65c7a252]" started-at="2022-12-20T00:53:31 IST" name="administatorLoginTest2" finished-at="2022-12-20T00:53:34 IST" duration-ms="2745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- administatorLoginTest2 -->
+        <test-method signature="administatorLoginTest()[pri:0, instance:com.qdPM.TestCases.LoginPageTest@65c7a252]" started-at="2022-12-20T00:53:32 IST" name="administatorLoginTest" finished-at="2022-12-20T00:53:34 IST" duration-ms="2356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- administatorLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qdPM.TestCases.LoginPageTest@65c7a252]" started-at="2022-12-20T00:53:34 IST" name="tearDown" finished-at="2022-12-20T00:53:35 IST" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qdPM.TestCases.LoginPageTest@65c7a252]" started-at="2022-12-20T00:53:34 IST" name="tearDown" finished-at="2022-12-20T00:53:35 IST" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qdPM.TestCases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
