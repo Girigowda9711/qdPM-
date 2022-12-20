@@ -22,7 +22,7 @@ public class HomePageTest {
 		//check the dashboard is displayed in homepage 
 		homepage.checkIfDashBoardPageIsOpened();
 		homepage.clickOnSideSubMenu("Tasks","Add Task");
-		System.out.println("this line should be removed after push to git");
+		
 		
 		
 		
